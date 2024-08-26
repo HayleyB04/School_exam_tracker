@@ -14,3 +14,8 @@ I have created a database that could be used by teachers to track students progr
 - ORDER BY was used to demonstrate data sorting with each table
 - A stored procedure was created so that overall grades could be listed in order whenever the teachers want to see updated data based on new exam result inputs, this can be used with CALL GetAllGrades()
 - The database was normalised where possible to reduce the chance of duplicate data
+
+
+![Screenshot 2024-08-26 152947](https://github.com/user-attachments/assets/8c286c5b-11d0-4635-b1e4-4c5b7ac94d8a)
+
+![Screenshot 2024-08-26 152856](https://github.com/user-attachments/assets/fa31f400-bd2e-40b0-b894-1843de46c569)
